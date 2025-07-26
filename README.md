@@ -5,7 +5,7 @@ Designed for speed, precision, and extensibility, this toolkit provides robust i
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - **Convex Hull (2D/3D)** – Graham Scan, QuickHull, Chan’s Algorithm  
 - **Delaunay Triangulation** & **Voronoi Diagrams**  
@@ -15,30 +15,3 @@ Designed for speed, precision, and extensibility, this toolkit provides robust i
 - **Exact Geometric Predicates** using floating-point filters or GMP  
 - **STL-like API** with customizable precision and traits  
 
----
-
-## 🔥 Highlights
-
-- **Zero external dependencies**  
-- Written in **modern C++17/20**  
-- Fully modular and extensible  
-- Optimized for both **precision** and **performance**
-
----
-
-## 📌 Tagline
-
-> **"Geometry, Precision, Power – Unleash Geometry with GeoKit++"**
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/yourusername/geokitpp.git
-cd geokitpp
-mkdir build && cd build
-cmake ..
-make
- License
-MIT
